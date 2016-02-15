@@ -1,0 +1,33 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	background-color: rgba(20,20,20,0.5);
+}
+
+header{
+	height: 100px;
+	background-color: red;
+	width: 806px;
+	margin: auto;
+}
+
+main{
+	padding-top: 10px;
+}
+
+h1{
+	font-size: 80px;
+}
+
+section{
+	border: 3px outset rgba(200,200,200,0.9);
+	width: 800px;
+	margin: auto;
+}
+
+input{
+	float: right;
+}
